@@ -19,8 +19,9 @@ Describe what your project is about and what it does
 
 ### Files used
 readme.md
-Include the files used
+new_york_city.csv
+washington.csv
+chicago.csv
 
 ### Credits
-Material used is taken from Udacity's course
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The project material has been taken by forking project details from https://github.com/udacity/pdsnd_github
