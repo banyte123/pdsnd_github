@@ -7,7 +7,8 @@ Version Control Project by Ieva B
 Replace the Project Title
 
 ### Description
-Git project is focused on working with local and remote depisitories
+Git project is focused on working with local and remote depisitories.
+Putting in practice material learnt during the course.
 Describe what your project is about and what it does
 
 ### Files used
@@ -15,5 +16,5 @@ readme.md
 Include the files used
 
 ### Credits
-Nothing
+Material used is taken from Udacity's course
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
