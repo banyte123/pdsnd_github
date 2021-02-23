@@ -6,8 +6,6 @@ Include the date you created this project and README file.
 ### Version Control Project by Ieva B
 
 ### Project Title
-=======
-### Project Title
 Version Control Project - Udacity
 >>>>>>> documentation
 Replace the Project Title
