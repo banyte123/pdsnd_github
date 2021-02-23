@@ -3,7 +3,7 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Version Control Project by Ieva B
+Version Control Project - Udacity
 Replace the Project Title
 
 ### Description
