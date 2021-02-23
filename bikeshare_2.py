@@ -166,7 +166,7 @@ def get_filters():
 
 
     print('-'*40)
-    return city, month, day
+    return day, month, city
 
 
 def load_data(city, month, day):
@@ -207,7 +207,7 @@ def time_stats(df):
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
-    print('\nCalculating The Most Popular Stations and Trip...\n')
+    print('\nThe system is now calculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
     # display most commonly used start station
@@ -219,14 +219,14 @@ def station_stats(df):
     # display most frequent combination of start station and end station trip
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis action took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
-    print('\nCalculating Trip Duration...\n')
+    print('\nSystem is calculating Trip Duration...\n')
     start_time = time.time()
 
     # display total travel time
@@ -268,7 +268,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? Please enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
