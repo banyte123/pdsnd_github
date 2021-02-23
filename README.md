@@ -1,7 +1,7 @@
 ### Date created
 Include the date you created this project and README file.
 
-### Project Title
+### Version Control Project by Ieva B
 Replace the Project Title
 
 ### Description
