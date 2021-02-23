@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 
 <<<<<<< HEAD
 ### Version Control Project by Ieva B
-||||||| f7a2e16
+
 ### Project Title
 =======
 ### Project Title
