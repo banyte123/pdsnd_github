@@ -8,6 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
+    This is the edited version of my bikeshare project, where code is left the same, but the messages printed have been modified.
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
