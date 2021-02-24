@@ -4,17 +4,17 @@ Include the date you created this project and README file.
 
 ### Project Title
 Version Control Project - Udacity
-Replace the Project Title
 
 ### Description
 Git project is focused on working with local and remote depisitories.
 Putting in practice material learnt during the course.
-Describe what your project is about and what it does
 
 ### Files used
 readme.md
-Include the files used
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-Material used is taken from Udacity's course
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Material used is taken from Udacity's course - https://github.com/udacity/pdsnd_github
+
