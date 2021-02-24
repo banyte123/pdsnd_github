@@ -2,13 +2,10 @@
 23 02 21
 Include the date you created this project and README file.
 
-<<<<<<< HEAD
 ### Version Control Project by Ieva B
 
 ### Project Title
 Version Control Project - Udacity
->>>>>>> documentation
-Replace the Project Title
 
 ### Description
 Git project is focused on working with local and remote depisitories.
