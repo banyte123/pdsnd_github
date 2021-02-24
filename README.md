@@ -20,3 +20,5 @@ chicago.csv
 
 ### Credits
 The project material has been taken by forking project details from https://github.com/udacity/pdsnd_github
+Forum material:
+https://www.reddit.com/r/git/comments/8fbkf9/refactor_branch/
