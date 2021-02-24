@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+24 02 2021
 
-### Version Control Project by Ieva B
+### Version Control Project by Ieva B - Refactoring
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Putting into practise material learnt during the Udacity course "Programming for Data Science"
 
 ### Files used
-Include the files used
+README.md
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
